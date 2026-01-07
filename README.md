@@ -4296,8 +4296,8 @@ Inspired by <a href="https://github.com/RehanSaeed/Bash-Cheat-Sheet">RehanSaeed/
 </p>
  </details>
  
-<details><b><summary>Keyboard controls <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /></b></summary>
-<p> 
+<details><summary><b>Keyboard controls <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /></b></summary>
+<p>
 
 ## Linux Keyboard Shortcuts
 
@@ -4564,7 +4564,7 @@ cht.sh keyword
 | [bash-utils](https://github.com/pirate/bash-utils) | A collection of hand-crafted bash scripts for various common tasks. |
 | [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) | A collection of small bash scripts for heavy terminal users. |
 | [DevOps Bash Tools](https://github.com/HariSekhon/DevOps-Bash-tools) | A comprehensive collection of 1000+ DevOps bash scripts for AWS, GCP, Kubernetes, Docker, CI/CD, databases, and more. |
-| [Bash Booster](https://github.com/bahamas10/bash-booster) | A modular bash framework that simplifies the process of writing bash scripts. |
+| [bash-it](https://github.com/bash-it/bash-it) | A community Bash framework. |
 | [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | A collection of pure bash snippets for common tasks like string manipulation, file handling, etc., with no external dependencies. |
 | **Curated Lists of Bash/Shell Resources** |
 | [awesome-terminals](https://github.com/cdleon/awesome-terminals) | Terminal Emulators. |
